@@ -1,4 +1,4 @@
-package org.tmb.driver.web.remote;
+package org.tmb.driver.factory.web.remote;
 
 import org.openqa.selenium.WebDriver;
 import org.tmb.driver.manager.web.remote.selenoid.SelenoidChromeManager;

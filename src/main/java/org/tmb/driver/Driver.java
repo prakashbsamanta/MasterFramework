@@ -2,7 +2,7 @@ package org.tmb.driver;
 
 import org.openqa.selenium.WebDriver;
 import org.tmb.config.factory.ConfigFactory;
-import org.tmb.driver.web.local.LocalDriverFactory;
+import org.tmb.driver.factory.web.local.LocalDriverFactory;
 
 public final class Driver {
     private Driver() {
