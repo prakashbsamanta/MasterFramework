@@ -1,4 +1,4 @@
-package org.tmb.config.enums;
+package org.tmb.enums;
 
 public enum BrowserType {
     CHROME,

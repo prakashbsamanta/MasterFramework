@@ -1,7 +1,7 @@
 package org.tmb.config.converters;
 
 import org.aeonbits.owner.Converter;
-import org.tmb.config.enums.BrowserType;
+import org.tmb.enums.BrowserType;
 
 import java.lang.reflect.Method;
 import java.util.Map;
